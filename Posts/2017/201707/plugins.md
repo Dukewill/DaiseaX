@@ -1,0 +1,894 @@
+﻿---
+title: 各国电压和插头标准大全
+date: 2017-07-23 15:00:00
+tags: [插头, 旅行]
+categories: [教程]
+banner: https://dfjvma.dm2301.livefilestore.com/y4mCBemoAc6MPUlLwKndkAgi5IABFHlJiejxJoCH7_cz444J2XEi0Z1ctaND6yZMMnF-8WLLgXA_c0osc2t6uBJQTo2fO5lx_N8ih5aHoDZCYitlnLT-c1G4G4_84isGrjgvWa58aibk3k0RBT66vh3of05qJlUXA5iUGBLBQUeOlEoob4pvsqr5c1Z5mHBNms4OXU58eERajHsmewYqu0McA?width=1280&height=582&cropmode=none
+thumbnail:
+---
+***特别说明：转自爱旅行网***
+
+**出国旅游出差的朋友越来越多了，爱旅行网精心为大家整理了有关各国插头、电压的资料，请各位出国人士提前准备好转换插头，以免不时之需。**
+
+![](https://www.evernote.com/shard/s396/res/ec03db38-9cbb-4c15-bf05-d3460370ef42)
+
+<!--more-->
+
+###### 世界各国电压概况说明
+
+目前世界各国室内用电所使用的电压大体有两种，分别为100V～130V，与220～240V二个类型。100V、110～130V被归类低压，如美国、日本等以及船上的电压，注重的是安全；220～240V则称为高压，其中包括了中国的220伏及英国的230伏和很多欧洲国家，注重的是效率。采用220～230V电压的国家里，也有使用110～130V电压的情形，如瑞典、俄罗斯。
+
+> - 100V：日本、韩国2国
+- 110～130V：中国台湾、美国、加拿大、墨西哥、巴拿马、古巴、黎巴嫩等30国
+- 220～230V：中国、香港(200V)、英国、德国、法国、意大利、澳大利亚、印度、新加坡、泰国、荷兰、西班牙、希腊、奥地利、菲律宾、挪威约120国
+
+######** 出国旅游需准备的转换插头说明**
+国标插头在中国、澳大利亚、新西兰、阿根廷使用，特征是三个扁头。
+
+美标插头在美国、加拿大、日本、巴西、菲律宾、泰国等国家和台湾使用，特征是一圆两扁。
+
+英标插头在香港和英国、印度、巴基斯坦、新加坡、马来西亚、越南、印度尼西亚、马尔代夫、卡塔尔等国家和地区使用，特征是三个方头。
+
+欧标(德标)插头在德国、法国、荷兰、丹麦、芬兰、挪威、波兰、葡萄牙、奥地利、比利时、匈牙利、西班牙、瑞典等欧盟国家及韩国、俄罗斯等国家使用，特征是两个圆头。
+
+南非标插头主要是在南非、印度、俄罗斯使用，特征是三个圆头。还有意大利标准(意标)插头、瑞士标准(瑞士标)插头等。
+
+出国转换插头也存在同一个国家或地区使用多种标准的情形。
+
+美标（美国、加拿大、日本、巴西、菲律宾、泰国等国家和台湾使用，特征是一圆两扁。）：
+
+![](https://www.evernote.com/shard/s396/res/134b8909-cf99-4a26-a713-3f0eb524ea51)
+
+欧标（国、法国、荷兰、丹麦、芬兰、挪威、波兰、葡萄牙、奥地利、比利时、匈牙利、西班牙、瑞典等欧盟国家及韩国、俄罗斯等国家使用）：
+
+![](https://www.evernote.com/shard/s396/res/cbe646e7-ac22-4578-b0c4-e6946c01658f)
+
+英标（香港和英国、印度、巴基斯坦、新加坡、马来西亚、越南、印度尼西亚、马尔代夫、卡塔尔）：
+
+![](https://www.evernote.com/shard/s396/res/fc7dd5f2-774b-4883-a5c5-dc9db79aecc4)
+
+瑞士：
+
+![](https://www.evernote.com/shard/s396/res/27c00b0b-b474-4f55-8111-bc2767ebf63b)
+
+意大利：
+
+![](https://www.evernote.com/shard/s396/res/669760d3-08e4-4dc1-a444-bcadda473462)
+
+丹麦：
+
+![](https://www.evernote.com/shard/s396/res/3f6300b5-880f-462c-899a-1f24fa02af49)
+
+澳标（澳大利亚、新西兰）：
+
+![](https://www.evernote.com/shard/s396/res/77f74f78-d6c4-4d4b-9e03-8713c66a2800)
+
+阿根廷：
+
+![](https://www.evernote.com/shard/s396/res/e69b058c-b912-4ebd-ade2-cb02a8764aba)
+
+巴西：
+
+![](https://www.evernote.com/shard/s396/res/8ca92bbe-8b51-4c0f-937e-3ba8dc378e52)
+
+南非（南非、印度、俄罗斯使用）：
+
+![](https://www.evernote.com/shard/s396/res/4db37cfc-3c08-4e40-8770-94d7c5f99dee)
+
+以色列：
+
+![](https://www.evernote.com/shard/s396/res/b99d9e68-d997-41fc-a756-fc1393275acc)
+
+日本：
+
+![](https://www.evernote.com/shard/s396/res/68b0704b-4e1e-454a-8baf-81baaf7f424c)
+
+中国*（其实中国的插头很多种，我们平时留意的话会发现五花八门什么都有，但大部分是美标和欧标）*:
+
+![](https://www.evernote.com/shard/s396/res/8ce58e55-23af-49c7-97d8-f2caa72b2d56)
+
+世界各国电压和转换插头对照
+
+<table>
+   <tr>
+      <td>国家</td>
+      <td>电压(V)</td>
+      <td> 插头标准</td>
+      <td>国家</td>
+      <td>电压(V)</td>
+      <td>插头标准</td>
+   </tr>
+   <tr>
+      <td>阿尔巴尼亚</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>列支敦士登</td>
+      <td>230</td>
+      <td>瑞士标</td>
+   </tr>
+   <tr>
+      <td>阿尔及利亚</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>卢森堡</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>阿富汗</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>卢旺达</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>阿根廷插头</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>罗马尼亚插头</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>阿联酋插头</td>
+      <td>220</td>
+      <td>欧标/英标</td>
+      <td>马达加斯加</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>阿鲁巴岛</td>
+      <td>127</td>
+      <td>美标</td>
+      <td>马尔代夫插头</td>
+      <td>230</td>
+      <td>英标</td>
+   </tr>
+   <tr>
+      <td>阿曼</td>
+      <td>240</td>
+      <td>欧标</td>
+      <td>马耳他</td>
+      <td>240</td>
+      <td>英标</td>
+   </tr>
+   <tr>
+      <td>埃及插头</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>马拉维</td>
+      <td>230</td>
+      <td>英标</td>
+   </tr>
+   <tr>
+      <td>埃塞俄比亚</td>
+      <td>230</td>
+      <td>瑞士标</td>
+      <td> 马来西亚插头</td>
+      <td>240</td>
+      <td>英标</td>
+   </tr>
+   <tr>
+      <td>爱尔兰</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>马里</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>爱沙尼亚</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>马其顿王国</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>安哥拉</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>马提尼克岛</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>安圭拉岛</td>
+      <td>110</td>
+      <td>日本(两扁脚)</td>
+      <td>毛里求斯</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>安提瓜岛</td>
+      <td>230</td>
+      <td>美标</td>
+      <td>毛利塔尼亚</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>奥地利插头</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>美国插头</td>
+      <td>120</td>
+      <td>美标</td>
+   </tr>
+   <tr>
+      <td>澳大利亚插头</td>
+      <td>230</td>
+      <td>国标</td>
+      <td>蒙古</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>巴巴多斯岛</td>
+      <td>115</td>
+      <td>美标</td>
+      <td>蒙特塞拉特岛</td>
+      <td>230</td>
+      <td>美标</td>
+   </tr>
+   <tr>
+      <td>巴布亚新几内亚</td>
+      <td>240</td>
+      <td>国标</td>
+      <td>孟加拉国</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>巴哈马群岛</td>
+      <td>120</td>
+      <td>美标</td>
+      <td>秘鲁</td>
+      <td>220</td>
+      <td>美标</td>
+   </tr>
+   <tr>
+      <td>巴基斯坦插头</td>
+      <td>230</td>
+      <td>英标</td>
+      <td>密克罗尼西亚</td>
+      <td>120</td>
+      <td>美标</td>
+   </tr>
+   <tr>
+      <td>巴拉圭</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>缅甸</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>巴利阿里群岛</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>摩洛哥</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>巴林群岛</td>
+      <td>230</td>
+      <td>英标</td>
+      <td>摩纳哥</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>巴拿马</td>
+      <td>110</td>
+      <td>美标</td>
+      <td>莫桑比克</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>巴西插头</td>
+      <td>220</td>
+      <td>美标</td>
+      <td>墨西哥插头</td>
+      <td>127</td>
+      <td>美标</td>
+   </tr>
+   <tr>
+      <td>百慕大群岛</td>
+      <td>120</td>
+      <td>美标</td>
+      <td>纳米比亚</td>
+      <td>220 N</td>
+      <td>　</td>
+   </tr>
+   <tr>
+      <td>保加利亚</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>南非插头</td>
+      <td>220/230</td>
+      <td>南非</td>
+   </tr>
+   <tr>
+      <td>贝宁湾</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>南斯拉夫</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>比利时插头</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>瑙鲁</td>
+      <td>240</td>
+      <td>国标</td>
+   </tr>
+   <tr>
+      <td>冰岛</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>尼加拉瓜</td>
+      <td>120</td>
+      <td>日本</td>
+   </tr>
+   <tr>
+      <td>波多黎各</td>
+      <td>120</td>
+      <td>美标</td>
+      <td>尼日尔</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>波兰插头</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>尼日利亚插头</td>
+      <td>240</td>
+      <td>美标/英标</td>
+   </tr>
+   <tr>
+      <td>波斯尼亚</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>挪威插头</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>玻利维亚</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>葡萄牙插头</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>伯利兹城</td>
+      <td>220</td>
+      <td>美标</td>
+      <td>日本插头</td>
+      <td>100</td>
+      <td>日本(两扁脚)</td>
+   </tr>
+   <tr>
+      <td>博茨瓦纳</td>
+      <td>231</td>
+      <td>英标</td>
+      <td>瑞典插头</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>不丹</td>
+      <td>230</td>
+      <td>英标</td>
+      <td>瑞士插头</td>
+      <td>230</td>
+      <td>瑞士标</td>
+   </tr>
+   <tr>
+      <td>布基纳法索</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>萨尔瓦多</td>
+      <td>120</td>
+      <td>美标</td>
+   </tr>
+   <tr>
+      <td>布隆迪</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>萨摩亚群岛</td>
+      <td>120</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>赤道几内亚</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>塞尔维亚</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>丹麦插头</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>塞拉利昂</td>
+      <td>230</td>
+      <td>美标/英标</td>
+   </tr>
+   <tr>
+      <td>德国插头</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>塞内加尔</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>东帝汶</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>塞浦路斯</td>
+      <td>240</td>
+      <td>英标</td>
+   </tr>
+   <tr>
+      <td>多哥</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>塞舌尔</td>
+      <td>240</td>
+      <td>英标</td>
+   </tr>
+   <tr>
+      <td>多米尼加</td>
+      <td>230</td>
+      <td>英标</td>
+      <td>沙特阿拉伯插头</td>
+      <td>127/220</td>
+      <td>美标/欧标/英标</td>
+   </tr>
+   <tr>
+      <td>多米尼加</td>
+      <td>110</td>
+      <td>日本(两扁脚)</td>
+      <td>圣路易斯</td>
+      <td>230</td>
+      <td>英标</td>
+   </tr>
+   <tr>
+      <td>俄罗斯插头</td>
+      <td>220</td>
+      <td>欧标/南非标</td>
+      <td>斯里兰卡</td>
+      <td>230</td>
+      <td>　</td>
+   </tr>
+   <tr>
+      <td>厄瓜多尔</td>
+      <td>120</td>
+      <td>美标</td>
+      <td>斯洛伐克</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>厄立特里亚</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>斯洛文尼亚</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>法国插头</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>斯威士兰</td>
+      <td>230</td>
+      <td>　</td>
+   </tr>
+   <tr>
+      <td>法罗群岛</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>苏丹</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>菲律宾插头</td>
+      <td>220</td>
+      <td>美标</td>
+      <td>索马里</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>斐济</td>
+      <td>240</td>
+      <td>国标</td>
+      <td>塔吉克斯坦</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>芬兰插头</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>塔希提岛</td>
+      <td>110/220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>佛得角</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>泰国插头</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>福克兰群岛</td>
+      <td>240</td>
+      <td>　</td>
+      <td>台湾插头</td>
+      <td>110</td>
+      <td>美标</td>
+   </tr>
+   <tr>
+      <td>冈比亚</td>
+      <td>230</td>
+      <td>英标</td>
+      <td>坦桑尼亚</td>
+      <td>230</td>
+      <td>英标</td>
+   </tr>
+   <tr>
+      <td>刚果</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>汤加</td>
+      <td>240</td>
+      <td>　</td>
+   </tr>
+   <tr>
+      <td>哥伦比亚</td>
+      <td>110</td>
+      <td>美标</td>
+      <td>突尼斯</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>哥斯达黎加</td>
+      <td>120</td>
+      <td>美标</td>
+      <td>土耳其</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>格林纳达</td>
+      <td>230</td>
+      <td>英标</td>
+      <td>土库曼斯坦</td>
+      <td>220</td>
+      <td>美标</td>
+   </tr>
+   <tr>
+      <td>格陵兰</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>危地马拉</td>
+      <td>120</td>
+      <td>美标</td>
+   </tr>
+   <tr>
+      <td>古巴插头</td>
+      <td>110/220</td>
+      <td>欧标</td>
+      <td>委内瑞拉</td>
+      <td>120</td>
+      <td>美标</td>
+   </tr>
+   <tr>
+      <td>瓜德罗普岛</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>文莱</td>
+      <td>240</td>
+      <td>英标</td>
+   </tr>
+   <tr>
+      <td>关岛</td>
+      <td>120</td>
+      <td>美标</td>
+      <td>乌干达</td>
+      <td>240</td>
+      <td>英标</td>
+   </tr>
+   <tr>
+      <td>圭亚那</td>
+      <td>240</td>
+      <td>美标</td>
+      <td>乌克兰插头</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>哈萨克斯坦</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>乌拉圭</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>海地</td>
+      <td>110</td>
+      <td>美标</td>
+      <td>乌兹别克斯坦</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>韩国插头</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>西班牙插头</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>荷兰插头</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>西萨摩亚</td>
+      <td>230</td>
+      <td>　</td>
+   </tr>
+   <tr>
+      <td>洪都拉斯</td>
+      <td>110</td>
+      <td>美标</td>
+      <td>希腊</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>怀特岛</td>
+      <td>240</td>
+      <td>欧标</td>
+      <td>香港插头</td>
+      <td>200/220</td>
+      <td>英标</td>
+   </tr>
+   <tr>
+      <td>基里巴斯</td>
+      <td>240</td>
+      <td>欧标</td>
+      <td>象牙海岸</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>吉布提</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>新加坡插头</td>
+      <td>230</td>
+      <td>英标</td>
+   </tr>
+   <tr>
+      <td>几内亚</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>新喀里多尼亚</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>几内亚比绍</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>新西兰插头</td>
+      <td>230</td>
+      <td>国标</td>
+   </tr>
+   <tr>
+      <td>加拿大插头</td>
+      <td>120</td>
+      <td>美标</td>
+      <td>匈牙利插头</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>加纳</td>
+      <td>230</td>
+      <td>英标</td>
+      <td>叙利亚</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>加蓬</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>牙买加</td>
+      <td>110</td>
+      <td>美标</td>
+   </tr>
+   <tr>
+      <td>加沙</td>
+      <td>230</td>
+      <td>　</td>
+      <td>亚美尼亚</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>柬埔寨</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>亚述尔群岛</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>捷克斯洛伐克</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>也门</td>
+      <td>220</td>
+      <td>英标</td>
+   </tr>
+   <tr>
+      <td>津巴布韦</td>
+      <td>220</td>
+      <td>英标</td>
+      <td>伊拉克插头</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>喀麦隆</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>伊朗插头</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>卡塔尔</td>
+      <td>240</td>
+      <td>英标</td>
+      <td>以色列插头</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>开曼群岛</td>
+      <td>120</td>
+      <td>美标</td>
+      <td>意大利插头</td>
+      <td>230</td>
+      <td>意标</td>
+   </tr>
+   <tr>
+      <td>科摩罗</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>印度插头</td>
+      <td>240</td>
+      <td>英标/南非标</td>
+   </tr>
+   <tr>
+      <td>科威特</td>
+      <td>240</td>
+      <td>欧标</td>
+      <td>印度尼西亚</td>
+      <td>127/240</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>克罗地亚</td>
+      <td>230</td>
+      <td>欧标</td>
+      <td>英国插头</td>
+      <td>230/240</td>
+      <td>英标</td>
+   </tr>
+   <tr>
+      <td>肯尼亚</td>
+      <td>240</td>
+      <td>英标</td>
+      <td>约旦</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>拉脱维亚</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>越南插头</td>
+      <td>127/220</td>
+      <td>欧标/英标</td>
+   </tr>
+   <tr>
+      <td>莱索托</td>
+      <td>220</td>
+      <td>　</td>
+      <td>赞比亚</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>老挝国</td>
+      <td>230</td>
+      <td>美标</td>
+      <td>乍得湖</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>黎巴嫩</td>
+      <td>230</td>
+      <td>美标</td>
+      <td>直布罗陀</td>
+      <td>230</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>立陶宛</td>
+      <td>220</td>
+      <td>欧标</td>
+      <td>智利插头</td>
+      <td>220</td>
+      <td>意标</td>
+   </tr>
+   <tr>
+      <td>利比里亚</td>
+      <td>120</td>
+      <td>美标</td>
+      <td>中非共和国</td>
+      <td>220</td>
+      <td>欧标</td>
+   </tr>
+   <tr>
+      <td>利比亚</td>
+      <td>127</td>
+      <td>　</td>
+      <td>中国插头</td>
+      <td>220</td>
+      <td>国标</td>
+   </tr>
+   <tr>
+      <td></td>
+   </tr>
+</table>
+
+各种插头英文图示：
+
+![](https://www.evernote.com/shard/s396/res/1417d22c-9f67-4079-9409-d43f947250db)
+
+![](https://www.evernote.com/shard/s396/res/26706c8f-37ec-41b4-b032-a69bc4c93a1c)
+
+![](https://www.evernote.com/shard/s396/res/a3dfc1ba-6bcc-4c80-add9-266524d90b7a)
+
+![](https://www.evernote.com/shard/s396/res/a3dfc1ba-6bcc-4c80-add9-266524d90b7a)
+
+![](https://www.evernote.com/shard/s396/res/5cd097ab-0f44-4421-b809-417693fc25f0)
+
+![](https://www.evernote.com/shard/s396/res/5a520592-1045-4cc5-b364-2fd9a00b802d)
