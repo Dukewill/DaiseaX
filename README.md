@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/Dukewill/DaiseaX/master/Images/favicon-Green.ico)
+![](https://raw.githubusercontent.com/Dukewill/DaiseaX/master/Images/favicon-Green.ico) 
+###### （Under Construction. Suggestions are very welcomed!）
 # DaiseaX - 戴西之海 X
 先进数字集群：这里是技术型作者发表文章，见闻和教程的地方。
 
@@ -6,7 +7,7 @@
 如果你是读者，请直接寻找你感兴趣的内容，两种型式：
 
 - [GitHub 索引目录](#目录)
-- [Daisea - 戴西之海](https://daisea.com "Daisea - 戴西之海")
+- Daisea - 戴西之海 （暂不提供链接）
 
 ### 作者
 如果你是作者，有两种方式贡献内容：
@@ -21,8 +22,14 @@
 
 # 目录
 
-文章
-见闻
+| 分类  |     |
+| ------------ | ------------ | ------------ | ------------ |
+| 文章 | test| test  | test  |
+| 见闻  |   |   |   |
+| 小说  |   |   |   |
+| 教程  |   |   |   |
+
+
 小说
 教程
 
