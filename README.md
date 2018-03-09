@@ -43,8 +43,11 @@
     banner: https://ur.img.com
     thumbnail:
     ---
+    > 简介
     #### 正文
     我是一个爱写作的好同学
+	我是社会主义接班人
+	建设四化是我的理想
     #### 许可：
     - 分享请注明原作者和出处，本项目不得用于商业用途。
     - <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
