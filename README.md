@@ -1,10 +1,23 @@
 ![](https://raw.githubusercontent.com/Dukewill/DaiseaX/master/Images/favicon-Green.ico) 
 ###### （Under Construction. Suggestions are very welcomed!）
 # DaiseaX - 戴西之海
-先进数字集群：这里是技术型作者发表文章，见闻和教程的地方。
+** 先进数字集群：这里是技术作者分享文章，见闻和教程的地方。**
+
+#### 今日全场最佳
+
+| 两篇文章 | 两枚博客 |
+| ----- | ----- |
+| [诗社的诗之一](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201704/poem.md "诗社的诗之一") | blog1 |
+| [诗社的诗之二](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201704/poem2.md "诗社的诗之二") | blog2 |
+
+#### 交流
+- Telegram - 先进数字集群：https://t.me/daiseax
+- 个人 Twitter：[Dukewill](https://twitter.com/lsdwbj "Dukewill")
+
+------------
 
 ### 读者
-如果你是读者，请直接寻找你感兴趣的内容，两种型式：
+如果你是读者，请直接寻找你感兴趣的内容：
 
 - [GitHub 索引目录](#目录)
 - Daisea - 戴西之海 （暂不提供链接）
@@ -18,15 +31,23 @@
 
 > 切勿抄袭和违规转载，这纯粹是个人爱好催生的项目，我没有能力一一核实，因此恕不能承担连带责任。
 
-#### 你的文章应遵循以下格式
+> **你的文章应遵循以下格式**
 
-# Title
-
-...
-
-### 交流
-- Telegram - 先进数字集群：https://t.me/daiseax
-- 个人 Twitter：[Dukewill](https://twitter.com/lsdwbj "Dukewill")
+    # 标题
+    作者：Dukewill 博客：xxx.xxx.xxx Twitter：@lsdwbj
+    ---
+    title: Hello World
+    date: 2017-04-16 20:06:49
+    tags: [教程, Hello World]
+    categories: [教程]
+    banner: https://ur.img.com
+    thumbnail:
+    ---
+    #### 正文
+    我是一个爱写作的好同学
+    #### 许可：
+    - 分享请注明原作者和出处，本项目不得用于商业用途。
+    - <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
 
 # 目录
 
@@ -85,5 +106,5 @@
 | [极渊记](https://notyetready "诗社的诗之一") | 一、博学家之死 | `文章` `诗和远方` | Unavailable | 2017-04-20 09:28:13 |
 
 ### 许可：
-- 分享请注明原作者，本项目不得用于商业用途。
+- 分享请注明原作者和出处，本项目不得用于商业用途。
 - <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
