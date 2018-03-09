@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/Dukewill/DaiseaX/master/Images/favicon-Green.ico) 
 ###### （Under Construction. Suggestions are very welcomed!）
 # DaiseaX - 戴西之海
-** 先进数字集群：这里是技术作者分享文章，见闻和教程的地方。**
+先进数字集群：这里是技术作者分享文章，见闻和教程的地方。
 
 #### 今日全场最佳
 
