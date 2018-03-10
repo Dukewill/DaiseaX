@@ -82,3 +82,7 @@ FPS 游戏对“听声辩位”要求较高，定位游戏耳机的产品都会�
 - 其他均为最低。
 
 我的配置在这套设置下，可以保持出生地/野外/人少时 144帧，小型团战 130+，大型城市战/画面复杂时 110+。大型城市战很少出现，因此在关键时刻能保持 130帧以上，完全满足了需求。
+
+### 许可：
+- 分享请注明原作者和出处，本项目不得用于商业用途。
+- <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
