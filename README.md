@@ -7,7 +7,7 @@
 
 | 两篇文章 | 两枚博客 |
 | ----- | ----- |
-| [诗社的诗之一](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201704/poem.md "诗社的诗之一") | blog1 |
+| [“吃鸡”硬件推荐 (新增画面设置)](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2018/201803/PUBG-PC-Accessories.md "“吃鸡”硬件推荐 (新增画面设置)") | [TARESKY](https://taresky.com/ "TARESKY") |
 | [诗社的诗之二](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201704/poem2.md "诗社的诗之二") | blog2 |
 
 #### 交流
@@ -26,6 +26,7 @@
 如果你是作者，有两种方式贡献内容：
 - 帮助修改现有内容，包括但不限于：错别字，病句，补全和再创作；
 - Pull 你的原创文章到 `/Pull` 文件夹，请确保使用 `Markdown` 语法和图片的快速加载以减少我的工作量。以此种方式分享的内容，所有权归作者，但 Daisea 有发布和在分享的权利；
+- 若您确认自己的网站能长期稳定访问，也可以直接 Pull 内容链接，但这种形式的收录概率更低。
 
 > 请提供能识别你身份的方式，包括但不限于：博客，Twitter，Weibo
 
@@ -33,16 +34,16 @@
 
 > **你的文章应遵循以下格式**
 
-    # 标题
-    作者：Dukewill 博客：xxx.xxx.xxx Twitter：@lsdwbj
     ---
     title: Hello World
-    date: 2017-04-16 20:06:49
+    date: 2011-11-11 11:11:11
     tags: [教程, Hello World]
     categories: [教程]
     banner: https://ur.img.com
-    thumbnail:
+    thumbnail: https://ur.img.com
     ---
+	# 标题
+    > 作者：Dukewill 博客：xxx.xxx.xxx Twitter：@lsdwbj
     > 简介
     #### 正文
     我是一个爱写作的好同学
@@ -53,6 +54,8 @@
     - <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
 
 # 目录
+
+> 授权收录
 
 - [文章](#文章)
 - [见闻](#见闻)
@@ -77,6 +80,7 @@
 | ----- | ----- | ----- | ----- |
 | [挥之不去的危机感和又申请了 GV 号码](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/%E6%8C%A5%E4%B9%8B%E4%B8%8D%E5%8E%BB%E7%9A%84%E5%8D%B1%E6%9C%BA%E6%84%9F%E5%92%8C%E5%8F%88%E7%94%B3%E8%AF%B7%E4%BA%86%20GV%20%E5%8F%B7%E7%A0%81.md "挥之不去的危机感和又申请了 GV 号码") | `Google Voice` `危机感` | ★★★ | 2017-08-23 06:57:00 |
 | [香港见闻录- 坑爹香港行](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/%E9%A6%99%E6%B8%AF%E8%A7%81%E9%97%BB%E5%BD%95-%20%E5%9D%91%E7%88%B9%E9%A6%99%E6%B8%AF%E8%A1%8C.md "香港见闻录- 坑爹香港行") | `香港` `HongKong` | ★★★ | 2017-09-15 08:18:00 |
+| [“吃鸡”硬件推荐 (新增画面设置)](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/%E9%A6%99%E6%B8%AF%E8%A7%81%E9%97%BB%E5%BD%95-%20%E5%9D%91%E7%88%B9%E9%A6%99%E6%B8%AF%E8%A1%8C.md "“吃鸡”硬件推荐 (新增画面设置)") | `游戏` `吃鸡` `绝地求生` `硬件配置` `画面设置` | ★★★★★ | 2018-01-12 16:00:00 |
 
 ### 教程
 
