@@ -8,7 +8,7 @@
 | 两篇文章 | 两枚博客 |
 | ----- | ----- |
 | [“吃鸡”硬件推荐 (新增画面设置)](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2018/201803/PUBG-PC-Accessories.md "“吃鸡”硬件推荐 (新增画面设置)") | [TARESKY](https://taresky.com/ "TARESKY") |
-| [诗社的诗之二](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201704/poem2.md "诗社的诗之二") | blog2 |
+| [Stripe开发使用指南--国际支付（含支付宝）（原站链接）](https://troyyang.com/2018/01/21/stripe_guide_alipay/ "Stripe开发使用指南--国际支付（含支付宝）") | [小影志](https://c7sky.com/ "小影志") |
 
 #### 交流
 - Telegram - 先进数字集群：https://t.me/daiseax
@@ -71,8 +71,8 @@
 | [诗社的诗之一](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201704/poem.md "诗社的诗之一") | `文章` `诗和远方` | ★★★ | 2017-04-20 09:28:13 |
 | [诗社的诗之二](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201704/poem2.md "诗社的诗之二") | `文章` `诗和远方` | ★★★ | 2017-04-20 09:53:28 |
 | [中国人为什么拍不过美国人](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8B%8D%E4%B8%8D%E8%BF%87%E7%BE%8E%E5%9B%BD%E4%BA%BA.md "中国人为什么拍不过美国人") | `文章` `电影` `诗和远方` | ★★★★ | 2017-08-18 13:50:00 |
-| [用新的还是旧的，这是个问题](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/%E7%94%A8%E6%96%B0%E7%9A%84%E8%BF%98%E6%98%AF%E6%97%A7%E7%9A%84%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%AA%E9%97%AE%E9%A2%98.md "用新的还是旧的，这是个问题") | `文章` `IOS11` `代码高亮` `Markdown` `更新` | ★★★★ | 2017-08-25 13:46:00 |
-| [电子化摘抄](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/%E7%94%A8%E6%96%B0%E7%9A%84%E8%BF%98%E6%98%AF%E6%97%A7%E7%9A%84%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%AA%E9%97%AE%E9%A2%98.md "用新的还是旧的，这是个问题") | `文章` `摘抄` `诗和远方` | ★★★★ | 2017-08-18 14:31:00 |
+| [用新的还是旧的，这是个问题](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/%E7%94%A8%E6%96%B0%E7%9A%84%E8%BF%98%E6%98%AF%E6%97%A7%E7%9A%84%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%AA%E9%97%AE%E9%A2%98.md "用新的还是旧的，这是个问题") | `文章` `IOS11` `代码高亮` `Markdown` `更新` | ★★★ | 2017-08-25 13:46:00 |
+| [电子化摘抄](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/%E7%94%A8%E6%96%B0%E7%9A%84%E8%BF%98%E6%98%AF%E6%97%A7%E7%9A%84%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%AA%E9%97%AE%E9%A2%98.md "用新的还是旧的，这是个问题") | `文章` `摘抄` `诗和远方` | ★★ | 2017-08-18 14:31:00 |
 
 ### 见闻
 
@@ -86,12 +86,13 @@
 
 | Title | Tag | Star | Date |
 | ----- | ----- | ----- | ----- |
-| [给 Hexo 主题添加动态背景](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201704/dynamicbackground.md "给 Hexo 主题添加动态背景") | `主题` `Hexo` `Theme` | ★★★★ | 2017-04-20 14:00:07 |
-| [Linode 服务器开启 BBR 及切换内核](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/Linode%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%90%AF%20BBR%20%E5%8F%8A%E5%88%87%E6%8D%A2%E5%86%85%E6%A0%B8.md "Linode 服务器开启 BBR 及切换内核") | `BBR` `VPS` `Linode` | ★★★★ | 2017-08-16 13:10:00 |
-| [Windows 下禁用某个驱动的自动更新](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/Linode%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%90%AF%20BBR%20%E5%8F%8A%E5%88%87%E6%8D%A2%E5%86%85%E6%A0%B8.md "Linode 服务器开启 BBR 及切换内核") | `驱动` `禁用更新` `Windows10` | ★★★★★ | 2017-09-04 09:20:00 |
-| [一键开启搬瓦工等 OVZ 架构 VPS 的 BBR](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/%E4%B8%80%E9%94%AE%E5%BC%80%E5%90%AF%E6%90%AC%E7%93%A6%E5%B7%A5%E7%AD%89%20OVZ%20%E6%9E%B6%E6%9E%84%20VPS%20%E7%9A%84%20BBR.md "一键开启搬瓦工等 OVZ 架构 VPS 的 BBR") | `OVZ` `BBR` `搬瓦工` | ★★★★★ | 2017-08-20 12:47:00 |
-| [使用 LNMP 快速部署 Wordpress 网站的经验分享](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/%E4%B8%80%E9%94%AE%E5%BC%80%E5%90%AF%E6%90%AC%E7%93%A6%E5%B7%A5%E7%AD%89%20OVZ%20%E6%9E%B6%E6%9E%84%20VPS%20%E7%9A%84%20BBR.md "2017-08-18 16:43:00 ") | `Linode` `LNMP` `Wordpress` | ★★★★★ | 2017-08-18 16:43:00 |
-| [打开新世界 - 利用你的 VPS 实现 IPv4 访问 IPv6 网站](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/%E4%B8%80%E9%94%AE%E5%BC%80%E5%90%AF%E6%90%AC%E7%93%A6%E5%B7%A5%E7%AD%89%20OVZ%20%E6%9E%B6%E6%9E%84%20VPS%20%E7%9A%84%20BBR.md "打开新世界 - 利用你的 VPS 实现 IPv4 访问 IPv6 网站") | `Linode` `VPS` `IPv4` `IPv6` | ★★★★★ | 2017-08-20 13:52:00 |
+| [给 Hexo 主题添加动态背景](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201704/dynamicbackground.md "给 Hexo 主题添加动态背景") | `主题` `Hexo` `Theme` | ★★★ | 2017-04-20 14:00:07 |
+| [Linode 服务器开启 BBR 及切换内核](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/Linode%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%90%AF%20BBR%20%E5%8F%8A%E5%88%87%E6%8D%A2%E5%86%85%E6%A0%B8.md "Linode 服务器开启 BBR 及切换内核") | `BBR` `VPS` `Linode` | ★★★ | 2017-08-16 13:10:00 |
+| [Windows 下禁用某个驱动的自动更新](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/Linode%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%90%AF%20BBR%20%E5%8F%8A%E5%88%87%E6%8D%A2%E5%86%85%E6%A0%B8.md "Linode 服务器开启 BBR 及切换内核") | `驱动` `禁用更新` `Windows10` | ★★★ | 2017-09-04 09:20:00 |
+| [一键开启搬瓦工等 OVZ 架构 VPS 的 BBR](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/%E4%B8%80%E9%94%AE%E5%BC%80%E5%90%AF%E6%90%AC%E7%93%A6%E5%B7%A5%E7%AD%89%20OVZ%20%E6%9E%B6%E6%9E%84%20VPS%20%E7%9A%84%20BBR.md "一键开启搬瓦工等 OVZ 架构 VPS 的 BBR") | `OVZ` `BBR` `搬瓦工` | ★★★ | 2017-08-20 12:47:00 |
+| [使用 LNMP 快速部署 Wordpress 网站的经验分享](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/%E4%B8%80%E9%94%AE%E5%BC%80%E5%90%AF%E6%90%AC%E7%93%A6%E5%B7%A5%E7%AD%89%20OVZ%20%E6%9E%B6%E6%9E%84%20VPS%20%E7%9A%84%20BBR.md "2017-08-18 16:43:00 ") | `Linode` `LNMP` `Wordpress` | ★★★★ | 2017-08-18 16:43:00 |
+| [打开新世界 - 利用你的 VPS 实现 IPv4 访问 IPv6 网站](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201708/%E4%B8%80%E9%94%AE%E5%BC%80%E5%90%AF%E6%90%AC%E7%93%A6%E5%B7%A5%E7%AD%89%20OVZ%20%E6%9E%B6%E6%9E%84%20VPS%20%E7%9A%84%20BBR.md "打开新世界 - 利用你的 VPS 实现 IPv4 访问 IPv6 网站") | `Linode` `VPS` `IPv4` `IPv6` | ★★★★ | 2017-08-20 13:52:00 |
+| [Stripe开发使用指南--国际支付（含支付宝）（原站链接）](https://troyyang.com/2018/01/21/stripe_guide_alipay/ "Stripe开发使用指南--国际支付（含支付宝）") | `Strip` `支付宝` `国际支付` `支付开发` | ★★★★★ | 2018-01-21 00:00:00 |
 
 ### 军史
 
