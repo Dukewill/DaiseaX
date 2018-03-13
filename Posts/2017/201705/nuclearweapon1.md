@@ -3,8 +3,8 @@ title: 曼哈顿计划与原子弹的诞生（上）
 date: 2017-04-23 20:24:20
 tags: [原子弹, 历史, 曼哈顿计划]
 categories: [写作]
-banner: https://dfjvma.dm2301.livefilestore.com/y4mCBemoAc6MPUlLwKndkAgi5IABFHlJiejxJoCH7_cz444J2XEi0Z1ctaND6yZMMnF-8WLLgXA_c0osc2t6uBJQTo2fO5lx_N8ih5aHoDZCYitlnLT-c1G4G4_84isGrjgvWa58aibk3k0RBT66vh3of05qJlUXA5iUGBLBQUeOlEoob4pvsqr5c1Z5mHBNms4OXU58eERajHsmewYqu0McA?width=1280&height=582&cropmode=none
-thumbnail:
+banner: https://ur.img.com
+thumbnail: https://ur.img.com
 ---
 #### 原子弹
 
