@@ -3,8 +3,8 @@ title: 使用 LNMP 快速部署 Wordpress 网站的经验分享
 date: 2017-08-18 23:43:00
 tags: [Linode, LNMP, Wordpress]
 categories: [教程]
-banner: https://dfjvma.dm2301.livefilestore.com/y4mCBemoAc6MPUlLwKndkAgi5IABFHlJiejxJoCH7_cz444J2XEi0Z1ctaND6yZMMnF-8WLLgXA_c0osc2t6uBJQTo2fO5lx_N8ih5aHoDZCYitlnLT-c1G4G4_84isGrjgvWa58aibk3k0RBT66vh3of05qJlUXA5iUGBLBQUeOlEoob4pvsqr5c1Z5mHBNms4OXU58eERajHsmewYqu0McA?width=1280&height=582&cropmode=none
-thumbnail:
+banner: https://ur.img.com
+thumbnail: https://ur.img.com
 ---
 **[LNMP](https://lnmp.org/ "LNMP")　及代表 Linux/Nginx/MySQL/PHP，与之对应的还有 [LAMP](https://lamp.sh/ "LAMP")（A 代表 Apache）。两者都能实现一键快速部署。**
 
