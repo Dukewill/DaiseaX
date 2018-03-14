@@ -3,8 +3,8 @@ title: 打开新世界 - 利用你的 VPS  实现 IPv4 访问 IPv6 网站
 date: 2017-08-20 20:52:00
 tags: [Linode, VPS, IPv4, IPv6]
 categories: [教程]
-banner: https://dfjvma.dm2301.livefilestore.com/y4mCBemoAc6MPUlLwKndkAgi5IABFHlJiejxJoCH7_cz444J2XEi0Z1ctaND6yZMMnF-8WLLgXA_c0osc2t6uBJQTo2fO5lx_N8ih5aHoDZCYitlnLT-c1G4G4_84isGrjgvWa58aibk3k0RBT66vh3of05qJlUXA5iUGBLBQUeOlEoob4pvsqr5c1Z5mHBNms4OXU58eERajHsmewYqu0McA?width=1280&height=582&cropmode=none
-thumbnail:
+banner: https://ur.img.com
+thumbnail: https://ur.img.com
 ---
 IPv6 的概念已经出来很久，但随着各种因素，比如 NAT 的广泛使用等，IPv6 的发展似乎停滞不前，平时也几乎感觉不到它的存在。虽然一直都有电信 IPv6 试商用的消息，可目前对它支持最好的还只是教育网。那我们这些早已毕业离校的学渣就从此告别 IPv6 了吗？作为一位新技术爱好者，当然要好好研究一番。<!--more-->
 
