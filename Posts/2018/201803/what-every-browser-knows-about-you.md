@@ -6,6 +6,9 @@ categories: [科普]
 banner: https://img.c7sky.com/2016/04/10/webkay-banner.png
 thumbnail: https://img.c7sky.com/2016/04/10/webkay-banner.png
 ---
+
+![](https://img.c7sky.com/2016/04/10/webkay-banner.png)
+
 # 浏览器知道你的哪些信息
 
 > 作者：小影 博客：[小影志](https://c7sky.com/ "小影志")
