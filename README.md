@@ -7,7 +7,7 @@
 
 | 两篇文章 | 两枚博客 |
 | ----- | ----- |
-| [“吃鸡”硬件推荐 (新增画面设置)](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2018/201803/PUBG-PC-Accessories.md "“吃鸡”硬件推荐 (新增画面设置)") | [TARESKY](https://taresky.com/ "TARESKY") |
+| [浏览器知道你的哪些信息](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2018/201803/what-every-browser-knows-about-you.md "浏览器知道你的哪些信息") | [TARESKY](https://taresky.com/ "TARESKY") |
 | [Stripe开发使用指南--国际支付（含支付宝）（原站链接）](https://troyyang.com/2018/01/21/stripe_guide_alipay/ "Stripe开发使用指南--国际支付（含支付宝）") | [小影志](https://c7sky.com/ "小影志") |
 
 #### 交流
@@ -106,6 +106,7 @@
 | Title | Tag | Star | Date |
 | ----- | ----- | ----- | ----- |
 | [一声巨响，宛如神灵逞威 - 音爆杂谈](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2017/201712/%E4%B8%80%E5%A3%B0%E5%B7%A8%E5%93%8D%EF%BC%8C%E5%AE%9B%E5%A6%82%E7%A5%9E%E7%81%B5%E9%80%9E%E5%A8%81%20-%20%E9%9F%B3%E7%88%86%E6%9D%82%E8%B0%88.md "一声巨响，宛如神灵逞威 - 音爆杂谈") | `音爆` `sonic boom` `音障` `音爆云` | ★★★★★ | 2017-12-05 02:18:00 |
+| [浏览器知道你的哪些信息](https://github.com/Dukewill/DaiseaX/blob/master/Posts/2018/201803/what-every-browser-knows-about-you.md "浏览器知道你的哪些信息") | `html5` `JavaScript` `浏览器` `隐私` | ★★★★★ | 2016-04-10 11:11:11 |
 
 ### 小说
 
