@@ -1,5 +1,1 @@
-- DOMAIN-SUFFIX,hm.baidu.com,DIRECT
-- DOMAIN-SUFFIX,in.visitors.live,REJECT
-- DOMAIN-SUFFIX,crm-eve.b2b.alibaba-inc.com,DIRECT
-- DOMAIN,autodiscover.nti-audio.com,🔰 节点选择
-- DOMAIN,mail.nti-audio.com,🔰 节点选择
+DOMAIN-SUFFIX,in.visitors.live
