@@ -1,4 +1,7 @@
 DOMAIN-SUFFIX,hm.baidu.com
 DOMAIN-SUFFIX,crm-eve.b2b.alibaba-inc.com
+ip-cidr, 161.117.232.175/24, direct
+ip-cidr, 35.220.248.76/24, direct
+ip-cidr, 47.75.73.144/24, direct
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
