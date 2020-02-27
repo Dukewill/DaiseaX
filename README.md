@@ -43,7 +43,7 @@
     thumbnail: https://ur.img.com
     ---
 	# 标题
-    > 作者：Dukewill 博客：xxx.xxx.xxx Twitter：@lsdwbj
+    > 作者：Dukewill 博客：xxx.xxx.xxx Twitter：@dukewill
     > 简介
     #### 正文
     我是一个爱写作的好同学
