@@ -1,0 +1,44 @@
+port: 8888
+socks-port: 8889
+redir-port: 0
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 0.0.0.0:6170
+secret: ""
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: fake-ip
+  listen: :53
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+    - 8.8.8.8
+    - 8.8.4.4
+cfw-bypass:
+  - localhost
+  - 127.*
+  - 10.*
+  - 172.16.*
+  - 172.17.*
+  - 172.18.*
+  - 172.19.*
+  - 172.20.*
+  - 172.21.*
+  - 172.22.*
+  - 172.23.*
+  - 172.24.*
+  - 172.25.*
+  - 172.26.*
+  - 172.27.*
+  - 172.28.*
+  - 172.29.*
+  - 172.30.*
+  - 172.31.*
+  - 192.168.*
+  - <local>
+cfw-latency-timeout: 5000
+Proxy: ~
+Proxy Group: ~
+Rule: ~
