@@ -2,7 +2,7 @@
 # > Microsoft
 USER-AGENT,OneDrive*
 DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,bing
+DOMAIN-SUFFIX,bing.com
 DOMAIN-KEYWORD,onedrive
 DOMAIN-SUFFIX,azure.cn
 DOMAIN-SUFFIX,azure.com
