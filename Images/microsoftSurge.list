@@ -4,6 +4,8 @@ USER-AGENT,OneDrive*
 DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-KEYWORD,onedrive
 DOMAIN-SUFFIX,azure.cn
 DOMAIN-SUFFIX,azure.com
