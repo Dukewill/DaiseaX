@@ -1,6 +1,7 @@
 # > Microsoft
 USER-AGENT,OneDrive*,💻 巨硬
 DOMAIN-KEYWORD,microsoft,💻 巨硬
+DOMAIN-KEYWORD,bing,💻 巨硬
 DOMAIN-KEYWORD,onedrive,💻 巨硬
 DOMAIN-SUFFIX,azure.cn,💻 巨硬
 DOMAIN-SUFFIX,azure.com,💻 巨硬
@@ -14,7 +15,5 @@ DOMAIN-SUFFIX,outlook.com,💻 巨硬
 DOMAIN-SUFFIX,sharepoint.com,💻 巨硬
 DOMAIN-SUFFIX,skype.com,💻 巨硬
 DOMAIN-SUFFIX,windows.com,💻 巨硬
-DOMAIN-SUFFIX,windows.net,💻 巨硬
-DOMAIN-SUFFIX,windowsupdate.com,💻 巨硬
 DOMAIN-SUFFIX,xbox.com,💻 巨硬
 DOMAIN-SUFFIX,xboxlive.com,💻 巨硬
