@@ -1,5 +1,6 @@
 
 # > Microsoft
+DOMAIN-SUFFIX,imgur.com
 USER-AGENT,OneDrive*
 DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,bing.com
