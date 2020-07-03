@@ -121,5 +121,5 @@ cfw-bypass:
   - <local>
 cfw-latency-timeout: 5000
 proxies: ~
-Proxy Group: ~
-Rule: ~
+proxy-groups: ~
+rules: ~
