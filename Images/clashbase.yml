@@ -120,6 +120,6 @@ cfw-bypass:
   - 192.168.*
   - <local>
 cfw-latency-timeout: 5000
-proxies: ~
+Proxy: ~
 Proxy Group: ~
 Rule: ~
