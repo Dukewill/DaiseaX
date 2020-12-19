@@ -1,6 +1,6 @@
 ![]( https://visitor-badge.glitch.me/badge?page_id=<DaiseaX>)
 
-![](https://raw.githubusercontent.com/Dukewill/DaiseaX/master/Images/favicon.ico) 
+![](https://cdn.jsdelivr.net/npm/dukewill@0.0.15/images/favicon-green.ico) 
 ###### （Under Construction. Suggestions are very welcomed!）
 # DaiseaX - 戴西之海
 先进数字集群：这里是技术作者分享文章，见闻和教程的地方。
